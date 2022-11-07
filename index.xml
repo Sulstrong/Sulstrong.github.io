@@ -2,10 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Main</title>
-    <link>http://Sulstrong.github.io/</link>
+    <link>https://sulstrong.github.io/</link>
     <description>Recent content on Main</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://Sulstrong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sulstrong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://sulstrong.github.io/about/</link>
+      <pubDate>Sun, 06 Nov 2022 19:00:28 -0500</pubDate>
+      
+      <guid>https://sulstrong.github.io/about/</guid>
+      <description></description>
+    </item>
+    
     
     
   </channel>
