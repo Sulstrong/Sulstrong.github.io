@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://Sulstrong.github.io/about/</loc>
-    <lastmod>2022-11-06T19:00:28-05:00</lastmod>
-  </url><url>
-    <loc>https://Sulstrong.github.io/archives/</loc>
-  </url><url>
-    <loc>https://Sulstrong.github.io/search/</loc>
-  </url><url>
-    <loc>https://Sulstrong.github.io/categories/</loc>
-  </url><url>
-    <loc>https://Sulstrong.github.io/</loc>
-  </url><url>
-    <loc>https://Sulstrong.github.io/series/</loc>
-  </url><url>
-    <loc>https://Sulstrong.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://Sulstrong.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2022-11-07T18:49:44-05:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://Sulstrong.github.io/zh/sitemap.xml</loc>
+    
+      <lastmod>2022-11-07T18:49:44-05:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
