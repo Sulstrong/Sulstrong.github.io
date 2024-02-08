@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>经历 on Home</title>
+    <link>https://Sulstrong.github.io/project/</link>
+    <description>Recent content in 经历 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Nov 2022 18:49:44 -0500</lastBuildDate><atom:link href="https://Sulstrong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first formal post</title>
+      <link>https://Sulstrong.github.io/project/sample/</link>
+      <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/project/sample/</guid>
+      <description>sample</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://Sulstrong.github.io/project/test-projects/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://Sulstrong.github.io/project/test-projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
