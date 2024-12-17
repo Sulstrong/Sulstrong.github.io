@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Main</title>
-    <link>http://Sulstrong.github.io/zh/posts/</link>
-    <description>Recent content in Posts on Main</description>
+    <title>博客 on Home</title>
+    <link>https://Sulstrong.github.io/zh/posts/</link>
+    <description>Recent content in 博客 on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Nov 2022 18:49:44 -0500</lastBuildDate><atom:link href="http://Sulstrong.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 18:49:44 -0500</lastBuildDate><atom:link href="https://Sulstrong.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my first formal post</title>
-      <link>http://Sulstrong.github.io/zh/posts/sample/</link>
+      <link>https://Sulstrong.github.io/zh/posts/sample/</link>
       <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
       
-      <guid>http://Sulstrong.github.io/zh/posts/sample/</guid>
+      <guid>https://Sulstrong.github.io/zh/posts/sample/</guid>
       <description>sample</description>
     </item>
     
     <item>
-      <title>This is my first formal post</title>
-      <link>http://Sulstrong.github.io/zh/posts/tech/sample/</link>
-      <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
+      <title>Tech</title>
+      <link>https://Sulstrong.github.io/zh/posts/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
       
-      <guid>http://Sulstrong.github.io/zh/posts/tech/sample/</guid>
-      <description>sample</description>
+      <guid>https://Sulstrong.github.io/zh/posts/tech/</guid>
+      <description></description>
     </item>
     
   </channel>

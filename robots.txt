@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://Sulstrong.github.io/sitemap.xml
+Sitemap: https://Sulstrong.github.io/sitemap.xml

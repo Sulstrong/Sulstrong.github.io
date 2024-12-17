@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👨🏻‍💻生活 on Main</title>
-    <link>http://Sulstrong.github.io/zh/life/</link>
-    <description>Recent content in 👨🏻‍💻生活 on Main</description>
+    <title>🏖 生活 on Home</title>
+    <link>https://Sulstrong.github.io/zh/life/</link>
+    <description>Recent content in 🏖 生活 on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://Sulstrong.github.io/zh/life/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 00:18:15 +0800</lastBuildDate><atom:link href="https://Sulstrong.github.io/zh/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://Sulstrong.github.io/zh/life/life/</link>
+      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
+      
+      <guid>https://Sulstrong.github.io/zh/life/life/</guid>
+      <description>Hello World 我的生活多姿多彩</description>
+    </item>
+    
   </channel>
 </rss>
