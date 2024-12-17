@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>标签1 on Home</title>
+    <link>https://Sulstrong.github.io/zh/tags/%E6%A0%87%E7%AD%BE1/</link>
+    <description>Recent content in 标签1 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Nov 2022 12:40:37 -0500</lastBuildDate><atom:link href="https://Sulstrong.github.io/zh/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://Sulstrong.github.io/zh/hobby/first/</link>
+      <pubDate>Mon, 07 Nov 2022 12:40:37 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/zh/hobby/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://Sulstrong.github.io/zh/project/first/</link>
+      <pubDate>Mon, 07 Nov 2022 12:40:37 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/zh/project/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

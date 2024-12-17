@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sample1 on Home</title>
+    <link>https://Sulstrong.github.io/categories/sample1/</link>
+    <description>Recent content in Sample1 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Nov 2022 18:49:44 -0500</lastBuildDate><atom:link href="https://Sulstrong.github.io/categories/sample1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hobby post</title>
+      <link>https://Sulstrong.github.io/hobby/sample/</link>
+      <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/hobby/sample/</guid>
+      <description>sample</description>
+    </item>
+    
+    <item>
+      <title>This is my first formal post</title>
+      <link>https://Sulstrong.github.io/posts/sample/</link>
+      <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/posts/sample/</guid>
+      <description>sample</description>
+    </item>
+    
+    <item>
+      <title>This is my first formal post</title>
+      <link>https://Sulstrong.github.io/project/sample/</link>
+      <pubDate>Mon, 07 Nov 2022 18:49:44 -0500</pubDate>
+      
+      <guid>https://Sulstrong.github.io/project/sample/</guid>
+      <description>sample</description>
+    </item>
+    
+  </channel>
+</rss>
